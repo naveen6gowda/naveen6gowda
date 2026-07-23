@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🤖 Sentinel — Self-Hosted Agentic AI for my Homelab
 
-<!--
-**naveen6gowda/naveen6gowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An autonomous infrastructure agent (LangGraph) that health-checks my entire
+homelab — Proxmox VMs, Docker containers, disks, backups — and fixes issues
+**only after human approval** via a Telegram approval gate.
 
-Here are some ideas to get you started:
+**Stack:** LangGraph · MCP · LM Studio (Qwen3.6 27B, fully local) · Langfuse · Proxmox · Home Assistant
+**Safety:** approval-gated actions · default-deny · audit log · 47 automated safety tests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/61a1c8c4-5873-426c-a629-a09e716ecd6f
+
+*Full-quality version: see the LinkedIn post / repo release.*
