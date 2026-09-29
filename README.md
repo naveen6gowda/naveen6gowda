@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/61a1c8c4-5873-426c-a629-a09e716ecd6f
   <tr>
     <td align="center" width="25%"><b>🛡️ Default deny</b><br><sub>every destructive action waits for a human</sub></td>
     <td align="center" width="25%"><b>🔌 MCP server</b><br><sub>same tools, same gate, for any AI client</sub></td>
-    <td align="center" width="25%"><b>🧪 Tests + evals</b><br><sub>pytest in CI · 12 golden scenarios</sub></td>
+    <td align="center" width="25%"><b>🧪 Tests + evals</b><br><sub>125 tests in CI · 16 golden evals</sub></td>
     <td align="center" width="25%"><b>🏠 100% local LLM</b><br><sub>LM Studio · Langfuse traces</sub></td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/61a1c8c4-5873-426c-a629-a09e716ecd6f
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/naveen6gowda/AI-Agent">🛰️ AI-Agent</a></h3>
-      HomelabSentinel source: LangGraph approval gate, 29-tool registry, MCP server, BM25 RAG, systemd monitors, eval harness and a five-step “how to build an agent” course.<br><br>
+      HomelabSentinel source: LangGraph approval gate, 32-tool registry, MCP server, BM25 RAG, systemd monitors, eval harness and a five-step “how to build an agent” course.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" alt="LangGraph"> <img src="https://img.shields.io/badge/MCP-111111?logo=modelcontextprotocol&logoColor=white" alt="MCP"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
     </td>
     <td width="50%" valign="top">
